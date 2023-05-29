@@ -65,9 +65,10 @@ Check the result
 ```
 
 ## OUTPUT
+![Screenshot (8)](https://github.com/Premkumar171223/Ex06_Web-Design/assets/127816632/0836769d-3ed8-4a6c-a466-0259cdd68b5d)
 ![Screenshot (6)](https://github.com/Premkumar171223/Ex06_Web-Design/assets/127816632/d13b65b6-dab6-4c26-9a7c-4bb9fc19c760)
 ![Screenshot (7)](https://github.com/Premkumar171223/Ex06_Web-Design/assets/127816632/2513a16e-ffff-4208-a717-e006860fe7f6)
-![Screenshot (8)](https://github.com/Premkumar171223/Ex06_Web-Design/assets/127816632/0836769d-3ed8-4a6c-a466-0259cdd68b5d)
+
 
 
 
